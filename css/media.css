@@ -1,0 +1,28 @@
+/*mobile*/
+@media(min-width:320px){
+    .card-container{
+        width:90%;
+    }
+        .card-col{
+            width:100%;}
+
+    }
+ /*ipad*/
+ @media(min-width:660px){
+
+ card-container{
+    width:100%;
+}
+    .card-col{
+        width:50%;}
+    }
+ /*laptop*/
+ @media(min-width:960px){
+    
+    .card-container{
+        width:90%;}
+      
+    .card-col{
+        width: 31.33%;}
+
+ }
